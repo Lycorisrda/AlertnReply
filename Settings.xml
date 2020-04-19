@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Profile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tell>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Tell>
+  <GM>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </GM>
+  <Say>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Say>
+  <Party>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Party>
+  <Alliance>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Alliance>
+  <Yell>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Yell>
+  <Shout>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Shout>
+  <FC>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </FC>
+  <CWLS>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </CWLS>
+  <LS>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </LS>
+  <Emote>
+    <Enabled>true</Enabled>
+    <UseRegex>false</UseRegex>
+    <UseKeywords>false</UseKeywords>
+    <Reply>false</Reply>
+    <Regex />
+    <ReplyText />
+    <keywords />
+  </Emote>
+  <chatLog>
+    <Enabled>true</Enabled>
+    <LogAll>true</LogAll>
+  </chatLog>
+  <sound>false</sound>
+  <ignoreSelf>true</ignoreSelf>
+  <fishCheck>40</fishCheck>
+</Profile>

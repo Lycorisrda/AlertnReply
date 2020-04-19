@@ -17,8 +17,11 @@ namespace AlertnReply
         public override string Author => "Parrot | Lycorisrda";
         public override string Description => "A chat monitor";
         public override Version Version => new Version(2, 0, 0);
-
-        public override string Name => "聊天消息监视 - AlertMe";
+#if RB_CN
+        public override string Name => "聊天消息监视回复";
+#else
+        public override string Name => "AlertnReply";
+#endif
 
 
         public override void OnEnabled()
